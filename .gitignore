@@ -1,0 +1,4 @@
+stack-overflow-developer-survey-2021/
+__pycache__/
+.ipynb_checkpoints/
+save_model.pkl
